@@ -1,0 +1,34 @@
+Model: Display A
+Description: High-definition display
+Price: $300
+Width: 1920
+Height: 1080
+PPI: 401.5
+
+Model: Display B
+Description: Ultra HD display
+Price: $500
+Width: 2560
+Height: 1440
+PPI: 326.0
+
+Model: Display C
+Description: Compact display
+Price: $200
+Width: 1280
+Height: 720
+PPI: 294.0
+
+Model: Display D
+Description: Standard display
+Price: $250
+Width: 1600
+Height: 900
+PPI: 220.0
+
+Model: Display E
+Description: Budget display
+Price: $150
+Width: 1366
+Height: 768
+PPI: 150.0
